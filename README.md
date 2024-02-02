@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a flight computer<br>I'm looking to collaborate on Web design and Arduino projects<br>
+I'm currently working on a Flight computer<br>I'm looking to collaborate on Web design and Arduino projects<br>
 
 
 ## 🌐 Socials:
