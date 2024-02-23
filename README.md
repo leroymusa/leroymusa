@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on a Flight computer for a 2 stage rocket and a CubeSat Satellite<br>I'm looking to collaborate on Web design and Arduino projects<br>
 
+Interests<br>
+CubeSats, Rockets, C++, Data Structures, Binary Trees, Automata Theorem
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musa_leroy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dXtwixxer) 
