@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Flight computer<br>I'm looking to collaborate on Web design and Arduino projects<br>
+I'm currently working on a Flight computer for a 2 stage rocket and a CubeSat Satellite<br>I'm looking to collaborate on Web design and Arduino projects<br>
 
 
 ## 🌐 Socials:
