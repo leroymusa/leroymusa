@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joas329&theme=merko&hide_border=true" />
+  <img height=180  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroymusa&theme=merko&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joas329&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
