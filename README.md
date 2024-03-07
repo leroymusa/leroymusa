@@ -7,7 +7,7 @@
 - -> Currently involved in robotics and space communication systems.
 - -> You will most likely find me at the lab or a coffee shop.
 <!--
-**Joas329/Joas329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leroymusa/leroymusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height=180  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroymusa&theme=merko&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joas329&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height=180  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leroymusa&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 <details>
@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <details>
 <summary>🏆 GitHub Trophies</summary>summary>
   
-![](https://github-profile-trophy.vercel.app/?username=Joas329&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=leroymusa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 </details>
 
 <details>
 <summary>🔝 Top Contributed Repo </summary>
   
-![](https://github-contributor-stats.vercel.app/api?username=Joas329&limit=5&theme=merko&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=leroymusa&limit=5&theme=merko&combine_all_yearly_contributions=true&hide_border=true)
 </details>
